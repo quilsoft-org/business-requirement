@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_business_requirement_create_sale,business.requirement.create.sale,model_business_requirement_create_sale,,1,1,1,1

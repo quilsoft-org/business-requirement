@@ -9,6 +9,7 @@
     "author": "Tecnativa, Odoo Community Association (OCA)",
     "depends": ["crm", "business_requirement"],
     "data": [
+        'security/ir.model.access.csv',
         "wizard/crm_lead_convert_to_requirement_views.xml",
         "views/crm_lead_views.xml",
         "views/business_requirement_views.xml",

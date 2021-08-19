@@ -12,6 +12,7 @@
     "installable": True,
     "depends": ["business_requirement_deliverable", "sale_management"],
     "data": [
+        "security/ir.model.access.csv",
         "wizard/business_requirement_create_sale_views.xml",
         "views/sale_order_views.xml",
         "views/business_requirement_views.xml",
