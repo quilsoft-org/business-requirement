@@ -5,7 +5,7 @@
     "name": "Business Requirement Sale",
     "category": "Business Requirements Management",
     "summary": "Convert Business Requirement into Sales Orders",
-    "version": "14.0",
+    "version": "14.0.1",
     "website": "https://github.com/OCA/business-requirement",
     "author": "Tecnativa, " "Odoo Community Association (OCA)",
     "license": "AGPL-3",
